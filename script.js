@@ -5,6 +5,7 @@ document.getElementById("test").onsubmit = function(event) {
   alertUser();
 };
 
+//testing
 function alertUser() {
     alert("Congratulations!\nYou got the script running.");
 }
