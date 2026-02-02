@@ -1,9 +1,5 @@
+alert("test")
 
-
-document.getElementById("test").onsubmit = function(event) {
-  event.preventDefault();
-  alertUser();
-};
 
 //testing
 function alertUser() {
